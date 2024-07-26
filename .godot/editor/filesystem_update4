@@ -1,0 +1,3 @@
+res://scene/world/world.tscn
+res://script/CollisionShape3D.gd
+res://scene/world/node_3d.tscn
